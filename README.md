@@ -1,8 +1,13 @@
 # 👋 Hi, I'm Dilki Fernando
+<H2><a href="https://github.com/Dilkifernando24">Senior QA Engineer</a>, <a href="https://www.linkedin.com/in/dilkifernando/">ISTQB Foundation Certified </a>,<a href="https://medium.com/@difernandov/the-evolving-role-of-a-qa-engineer-my-journey-c554ccf671ed"> 5+ years of experience in manual testing</a> </H2>
 
-ISTQB Foundation Certified QA Engineer with 5+ years of experience in manual testing. I specialize in testing web and desktop applications, creating test documentation, and ensuring high-quality software. I'm currently self-learning automation (Selenium + Java and Cucumber/POM framework).
-
-## 📂 Portfolio Sections
+# 📌 Key Highlights
+- ✅ Strong focus on manual testing for web and desktop applications
+- ✅ Hands-on experience with test case design, bug reporting, functional testing, and regression testing
+- ✅ Exposure to Agile environments and cross-functional team collaboration
+- ✅ Ongoing self-learning in automation testing (Selenium + Java, Cucumber, POM)
+  
+## 📂 Portfolio
 
 ### 🔍 Manual Test Cases
 Real-world test case samples covering login, checkout, and form validation.
