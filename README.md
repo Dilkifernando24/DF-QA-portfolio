@@ -10,4 +10,3 @@
 # 📁 QA Portfolio
 ### <h3> Manual Testing | Structured test cases for the login page. (./manual-testing/) </h3>
 ### <h3> Bug Report | Realistic bug report with reproduction steps. (./bug-reporting/) </h3>
-### <h3> Automation | Demo site: https://parabank.parasoft.com | Framework: Selenium + Java, Cucumber, POM (./automation/) </h3>
