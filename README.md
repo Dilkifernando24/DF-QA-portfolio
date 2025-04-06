@@ -8,5 +8,5 @@
 - ✅ Ongoing self-learning in automation testing (Selenium + Java, Cucumber, POM)
   
 # 📁 QA Portfolio
-### <h3> Manual Testing | Structured test cases for the login page(./manual-testing/) </h3>
-### <h3> Bug Report | Realistic bug report with reproduction steps(./bug-reporting/) </h3>
+### <h3> Manual Testing | Structured test cases for the login page. [Manual Testing](./manual-testing/) </h3>
+### <h3> Bug Report | Realistic bug report with reproduction steps. [Sample Bug Report](./bug-reporting/) </h3>
