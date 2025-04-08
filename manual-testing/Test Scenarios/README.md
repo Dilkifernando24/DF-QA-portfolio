@@ -1,8 +1,7 @@
 # <h1>Test Scenarios</h1>
+## <h4>This folder contains high-level Test Scenarios designed based on different modules available on the <a href="https://demoqa.com/login"> Demo QA </a> and <a href="https://ultimateqa.com/automation/"> Ultimate QA </a> sample web applications.</h4>
 
-### <h4> This folder contains high-level Test Scenarios designed based on different modules available on the <a href="https://demoqa.com/login"> Demo QA </a> sample web application. These scenarios are crafted to simulate real-world user interactions and form the foundation for creating detailed test cases and future automation scripts.</h4>
-
-### Modules Covered (Highlights)
+### Modules Covered (DemoQA)
 
 |    Feature              |    Module Name         |    Status     |
 |-------------------------|------------------------|---------------|
@@ -13,3 +12,9 @@
 |                         | `check-box`            | ⏳ Planned     |
 | Practice Form           | `radion-button`        | ⏳ Planned     |
 
+### Modules Covered (Ultimate QA)
+
+|    Feature              |    Module Name         |    Status     |
+|-------------------------|------------------------|---------------|
+| Login Automation        | `Create a new account` | ✅ Added      |
+|                         |  [SignIn-Test-Scenarios_UltimateQA.xlsx](./Sample%20Test%20Site_UltimateQA/SignIn-Test-Scenarios_UltimateQA.xlsx)| ✅ Added      |
