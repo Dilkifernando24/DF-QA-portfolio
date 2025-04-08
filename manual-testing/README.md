@@ -1,7 +1,7 @@
 # Manual Testing
 
 Welcome to the **Manual Testing** section of my QA Portfolio!  
-This area showcases my expertise in designing and executing thorough manual test strategies for various application scenarios.
+<h4>This area showcases my expertise in designing and executing thorough manual test strategies for various application scenarios.</h4>
 
 ## What You'll Find Here
 
@@ -11,9 +11,11 @@ This area showcases my expertise in designing and executing thorough manual test
 
 ## Tools & Skills Demonstrated
 
-- Test case design (positive & negative testing)
+- Test case design 
 - Use of Excel Sheets for test case management
 - Clear documentation & traceability
 
-
+## Sample Demo sites
+- <a href="https://demoqa.com/"> DemoQA </a>
+- <a href="https://courses.ultimateqa.com/"> UltimateQA </a>
 
