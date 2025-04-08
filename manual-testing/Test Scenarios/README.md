@@ -7,7 +7,7 @@
 |    Feature              |    Module Name         |    Status     |
 |-------------------------|------------------------|---------------|
 | Book Store Application  | `new-user`             | ✅ Added      |
-|                         | `login`                | ✅ Added      |
+|                         | [Login-Test-Scenario_DemoQA.xlsx](./manual-testing/Test%20Scenarios/Sample%20Test%20site_DemoQA/Login-Test-Scenario_DemoQA.xlsx)               | ✅ Added      |
 | Forms                   | `registration-form`    | 🔄 In Progress |
 | Elements                | `text-box`             | ⏳ Planned     |
 |                         | `check-box`            | ⏳ Planned     |
