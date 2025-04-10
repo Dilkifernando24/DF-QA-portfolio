@@ -15,7 +15,13 @@ Welcome to the **Manual Testing** section of my QA Portfolio!
 - Use of Excel Sheets for test case management
 - Clear documentation & traceability
 
-## Sample Demo sites used for the testing
-- <a href="https://demoqa.com/"> DemoQA </a>
-- <a href="https://courses.ultimateqa.com/"> UltimateQA </a>
+## Explore Real-World Manual Testing Scenarios
+Practical, structured, and QA-driven – dive into diverse functional areas with real test coverage!
+
+📂 Test Scenario Modules
+
+🔐 Login Functionality	
+🔁 Forgot Password	
+📝 Registration/Form
+🛒 Shopping Cart
 
