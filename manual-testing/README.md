@@ -20,8 +20,10 @@ Practical, structured, and QA-driven – dive into diverse functional areas with
 
 📂 Test Scenario Modules
 
-🔐 Login Functionality	
-🔁 Forgot Password	
-📝 Registration/Form
-🛒 Shopping Cart
+|    Module Name          |                       |  
+|-------------------------|------------------------|
+| 🔐 Login Functionality  |                        |
+| 🔁 Forgot Password      |                        |	     
+| 📝 Registration/Form    |                         |    
+| 🛒 Shopping Cart        |                        |
 
